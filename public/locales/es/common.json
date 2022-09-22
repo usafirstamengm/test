@@ -1,0 +1,172 @@
+{
+    "widget": {
+        "missing_type": "Falta el tipo de widget: {{type}}",
+        "api_error": "Error de API",
+        "status": "Estado"
+    },
+    "search": {
+        "placeholder": "Buscar…"
+    },
+    "resources": {
+        "total": "Total",
+        "free": "Libre",
+        "used": "Usado",
+        "load": "Carga"
+    },
+    "docker": {
+        "rx": "Recibido",
+        "tx": "Transmitido",
+        "mem": "Memoria",
+        "cpu": "Procesador",
+        "offline": "Desconectado"
+    },
+    "emby": {
+        "playing": "Reproduciendo",
+        "transcoding": "Transcodificando",
+        "bitrate": "Tasa de bits",
+        "no_active": "Sin transmisiones activas"
+    },
+    "tautulli": {
+        "playing": "Reproduciendo",
+        "transcoding": "Transcodificando",
+        "bitrate": "Tasa de bits",
+        "no_active": "Sin transmisiones activas"
+    },
+    "rutorrent": {
+        "active": "Activo",
+        "upload": "Subida",
+        "download": "Descarga"
+    },
+    "sonarr": {
+        "wanted": "Más deseado",
+        "queued": "En cola",
+        "series": "Series"
+    },
+    "radarr": {
+        "wanted": "Más deseado",
+        "queued": "En cola",
+        "movies": "Películas"
+    },
+    "readarr": {
+        "wanted": "Más deseado",
+        "queued": "En cola",
+        "books": "Libros"
+    },
+    "ombi": {
+        "pending": "Pendiente",
+        "approved": "Aprobado",
+        "available": "Disponible"
+    },
+    "jellyseerr": {
+        "pending": "Pendiente",
+        "approved": "Aprobado",
+        "available": "Disponible"
+    },
+    "pihole": {
+        "queries": "Consultas",
+        "blocked": "Bloqueado",
+        "gravity": "Gravedad"
+    },
+    "speedtest": {
+        "upload": "Subida",
+        "download": "Descarga",
+        "ping": "Ping"
+    },
+    "portainer": {
+        "running": "En ejecución",
+        "stopped": "Detenido",
+        "total": "Total"
+    },
+    "traefik": {
+        "routers": "Enrutadores",
+        "services": "Servicios",
+        "middleware": "Middleware"
+    },
+    "npm": {
+        "enabled": "Activado",
+        "disabled": "Desactivado",
+        "total": "Total"
+    },
+    "weather": {
+        "current": "Localización Actual",
+        "allow": "Clic para permitir",
+        "updating": "Actualizando",
+        "wait": "Espere, por favor"
+    },
+    "overseerr": {
+        "pending": "Pendiente",
+        "approved": "Aprobado",
+        "available": "Disponible"
+    },
+    "sabnzbd": {
+        "rate": "Tasa",
+        "queue": "En cola",
+        "timeleft": "Tiempo restante"
+    },
+    "nzbget": {
+        "rate": "Tasa",
+        "remaining": "Restante",
+        "downloaded": "Descargado"
+    },
+    "coinmarketcap": {
+        "configure": "Configurar una o más criptomonedas para rastrear",
+        "1hour": "1 Hora",
+        "1day": "1 Día",
+        "7days": "7 Días",
+        "30days": "30 Días"
+    },
+    "gotify": {
+        "apps": "Aplicaciones",
+        "clients": "Clientes",
+        "messages": "Mensajes"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexadores",
+        "numberOfGrabs": "Capturas",
+        "numberOfQueries": "Consultas",
+        "numberOfFailGrabs": "Capturas fallidas",
+        "numberOfFailQueries": "Consultas fallidas"
+    },
+    "transmission": {
+        "download": "Descarga",
+        "upload": "Subida",
+        "leech": "Compañeros",
+        "seed": "Semillas"
+    },
+    "jackett": {
+        "configured": "Configurado",
+        "errored": "Con errores"
+    },
+    "bazarr": {
+        "missingEpisodes": "Episodios perdidos",
+        "missingMovies": "Películas perdidas"
+    },
+    "lidarr": {
+        "queued": "En cola",
+        "wanted": "Más deseado",
+        "albums": "Álbumes"
+    },
+    "adguard": {
+        "queries": "Consultas",
+        "blocked": "Bloqueado",
+        "filtered": "Filtrado",
+        "latency": "Latencia"
+    },
+    "qbittorrent": {
+        "download": "Descarga",
+        "upload": "Subida",
+        "leech": "Compañeros",
+        "seed": "Semillas"
+    },
+    "mastodon": {
+        "user_count": "Usuarios",
+        "status_count": "Publicaciones",
+        "domain_count": "Dominios"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sesiones",
+        "numConnections": "Conexiones",
+        "dataRelayed": "Transmitido",
+        "transferRate": "Velocidad"
+    }
+}

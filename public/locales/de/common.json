@@ -1,0 +1,172 @@
+{
+    "widget": {
+        "missing_type": "Fehlender Widget-Typ: {{type}}",
+        "api_error": "API-Fehler",
+        "status": "Status"
+    },
+    "search": {
+        "placeholder": "Suche…"
+    },
+    "resources": {
+        "total": "Gesamt",
+        "free": "Frei",
+        "used": "Gebraucht",
+        "load": "Belastung"
+    },
+    "docker": {
+        "rx": "Rx",
+        "tx": "Tx",
+        "mem": "Mem",
+        "cpu": "Prozessor",
+        "offline": "Offline"
+    },
+    "emby": {
+        "playing": "Spielen",
+        "transcoding": "Transcodierung",
+        "bitrate": "Bitrate",
+        "no_active": "Keine aktive Streams"
+    },
+    "tautulli": {
+        "playing": "Spielen",
+        "transcoding": "Transcodierung",
+        "bitrate": "Bitrate",
+        "no_active": "Keine aktiven streamen"
+    },
+    "rutorrent": {
+        "active": "Aktiv",
+        "upload": "Hochladen",
+        "download": "Download"
+    },
+    "sonarr": {
+        "wanted": "Gesucht",
+        "queued": "In Warteschlange",
+        "series": "Serie"
+    },
+    "radarr": {
+        "wanted": "Gesucht",
+        "queued": "In Warteschlange",
+        "movies": "Filme"
+    },
+    "readarr": {
+        "wanted": "Gesucht",
+        "queued": "In Warteschlange",
+        "books": "Bücher"
+    },
+    "ombi": {
+        "pending": "Ausstehend",
+        "approved": "Genehmigt",
+        "available": "Verfügbar"
+    },
+    "jellyseerr": {
+        "pending": "Ausstehend",
+        "approved": "Genehmigt",
+        "available": "Verfügbar"
+    },
+    "pihole": {
+        "queries": "Abfragen",
+        "blocked": "Blockiert",
+        "gravity": "Gravity"
+    },
+    "speedtest": {
+        "upload": "Upload",
+        "download": "Download",
+        "ping": "Ping"
+    },
+    "portainer": {
+        "running": "Betrieb",
+        "stopped": "Gestoppt",
+        "total": "Gesamt"
+    },
+    "traefik": {
+        "routers": "Router",
+        "services": "Dienste",
+        "middleware": "Zwischenanwendung"
+    },
+    "npm": {
+        "enabled": "Aktiviert",
+        "disabled": "Deaktiviert",
+        "total": "Gesamt"
+    },
+    "weather": {
+        "current": "Aktueller Standort",
+        "allow": "Zum Zulassen anklicken",
+        "updating": "Aktualisieren",
+        "wait": "Bitte warten"
+    },
+    "overseerr": {
+        "pending": "Ausstehend",
+        "approved": "Genehmigt",
+        "available": "Verfügbar"
+    },
+    "sabnzbd": {
+        "rate": "Geschwindigkeit",
+        "queue": "Warteschlange",
+        "timeleft": "Verbleibende Zeit"
+    },
+    "nzbget": {
+        "rate": "Geschwindigkeit",
+        "remaining": "Verbleibend",
+        "downloaded": "Heruntergeladen"
+    },
+    "coinmarketcap": {
+        "configure": "Konfiguriere eine oder mehrere Kryptowährungen zur Verfolgung",
+        "1hour": "1 Stunde",
+        "1day": "1 Tag",
+        "7days": "7 Tage",
+        "30days": "30 Tage"
+    },
+    "gotify": {
+        "apps": "Programme",
+        "clients": "Benutzer",
+        "messages": "Nachrichten"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexer",
+        "numberOfGrabs": "Abrufungen",
+        "numberOfQueries": "Anfragen",
+        "numberOfFailGrabs": "Fehlgeschlagene Abrufungen",
+        "numberOfFailQueries": "Fehlgeschlagene Anfragen"
+    },
+    "transmission": {
+        "download": "Herunterladen",
+        "upload": "Hochladen",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "jackett": {
+        "configured": "Konfiguriert",
+        "errored": "Fehlerhaft"
+    },
+    "bazarr": {
+        "missingEpisodes": "Fehlende Episoden",
+        "missingMovies": "Fehlende Filme"
+    },
+    "lidarr": {
+        "wanted": "Gesucht",
+        "queued": "In Warteschlange",
+        "albums": "Alben"
+    },
+    "adguard": {
+        "queries": "Anfragen",
+        "blocked": "Blockiert",
+        "filtered": "Gefiltert",
+        "latency": "Latenz"
+    },
+    "qbittorrent": {
+        "download": "Herunterladen",
+        "upload": "Hochladen",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "mastodon": {
+        "user_count": "Users",
+        "status_count": "Posts",
+        "domain_count": "Domains"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sessions",
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate"
+    }
+}

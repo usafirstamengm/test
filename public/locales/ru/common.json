@@ -1,0 +1,172 @@
+{
+    "widget": {
+        "missing_type": "Отсутствует тип виджета: {{type}}",
+        "api_error": "Ошибка API",
+        "status": "Статус"
+    },
+    "search": {
+        "placeholder": "Поиск…"
+    },
+    "resources": {
+        "total": "Всего",
+        "free": "Свободно",
+        "used": "Использовано",
+        "load": "Load"
+    },
+    "docker": {
+        "rx": "Rx",
+        "tx": "Тx",
+        "mem": "Память",
+        "cpu": "Процессор",
+        "offline": "Не в сети"
+    },
+    "emby": {
+        "playing": "Воспроизведение",
+        "transcoding": "Транскодирование",
+        "bitrate": "Битрейт",
+        "no_active": "No Active Streams"
+    },
+    "tautulli": {
+        "playing": "Воспроизведение",
+        "transcoding": "Транскодирование",
+        "bitrate": "Битрейт",
+        "no_active": "No Active Streams"
+    },
+    "rutorrent": {
+        "active": "Активный",
+        "upload": "Загрузить",
+        "download": "Скачать"
+    },
+    "sonarr": {
+        "wanted": "Хотел",
+        "queued": "В очереди",
+        "series": "Серии"
+    },
+    "radarr": {
+        "wanted": "Хотел",
+        "queued": "В очереди",
+        "movies": "Фильмы"
+    },
+    "readarr": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "books": "Books"
+    },
+    "ombi": {
+        "pending": "Ожидание",
+        "approved": "Одобрено",
+        "available": "Доступно"
+    },
+    "jellyseerr": {
+        "pending": "Ожидание",
+        "approved": "Одобрено",
+        "available": "Доступно"
+    },
+    "pihole": {
+        "queries": "Запросы",
+        "blocked": "Заблокировано",
+        "gravity": "Сила тяжести"
+    },
+    "speedtest": {
+        "upload": "Загрузка",
+        "download": "Скачать",
+        "ping": "пинг"
+    },
+    "portainer": {
+        "running": "Запущено",
+        "stopped": "Остановлено",
+        "total": "Всего"
+    },
+    "traefik": {
+        "routers": "Маршрутизаторы",
+        "services": "Сервисы",
+        "middleware": "Промежуточное программное обеспечение"
+    },
+    "npm": {
+        "enabled": "Включено",
+        "disabled": "Отключено",
+        "total": "Всего"
+    },
+    "weather": {
+        "wait": "Пожалуйста подождите",
+        "current": "Текущая локация",
+        "allow": "Нажмите, чтобы разрешить",
+        "updating": "Обновление"
+    },
+    "overseerr": {
+        "pending": "Pending",
+        "approved": "Approved",
+        "available": "Available"
+    },
+    "sabnzbd": {
+        "rate": "Rate",
+        "queue": "Queue",
+        "timeleft": "Time Left"
+    },
+    "nzbget": {
+        "rate": "Rate",
+        "remaining": "Remaining",
+        "downloaded": "Downloaded"
+    },
+    "coinmarketcap": {
+        "configure": "Configure one or more crypto currencies to track",
+        "1hour": "1 Hour",
+        "1day": "1 Day",
+        "7days": "7 Days",
+        "30days": "30 Дней"
+    },
+    "gotify": {
+        "apps": "Applications",
+        "clients": "Clients",
+        "messages": "Messages"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexers",
+        "numberOfGrabs": "Grabs",
+        "numberOfQueries": "Queries",
+        "numberOfFailGrabs": "Fail Grabs",
+        "numberOfFailQueries": "Fail Queries"
+    },
+    "transmission": {
+        "download": "Download",
+        "upload": "Upload",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "jackett": {
+        "configured": "Configured",
+        "errored": "Errored"
+    },
+    "bazarr": {
+        "missingEpisodes": "Missing Episodes",
+        "missingMovies": "Missing Movies"
+    },
+    "lidarr": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "albums": "Albums"
+    },
+    "adguard": {
+        "queries": "Queries",
+        "blocked": "Blocked",
+        "filtered": "Filtered",
+        "latency": "Latency"
+    },
+    "qbittorrent": {
+        "download": "Download",
+        "upload": "Upload",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "mastodon": {
+        "user_count": "Users",
+        "status_count": "Posts",
+        "domain_count": "Domains"
+    },
+    "strelaysrv": {
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate",
+        "numActiveSessions": "Sessions"
+    }
+}

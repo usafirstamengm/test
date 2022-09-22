@@ -1,0 +1,172 @@
+{
+    "resources": {
+        "total": "Összes",
+        "free": "Szabad",
+        "used": "Használt",
+        "load": "Terhelés"
+    },
+    "docker": {
+        "rx": "RX",
+        "tx": "TX",
+        "mem": "MEM",
+        "cpu": "CPU",
+        "offline": "Offline"
+    },
+    "lidarr": {
+        "albums": "Albumok",
+        "wanted": "Keresett",
+        "queued": "Sorban áll"
+    },
+    "readarr": {
+        "wanted": "Keresett",
+        "queued": "Sorban áll",
+        "books": "Könyvek"
+    },
+    "bazarr": {
+        "missingEpisodes": "Hiányzó epizódok",
+        "missingMovies": "Hiányzó filmek"
+    },
+    "widget": {
+        "missing_type": "Hiányzó Widget Típus: {{type}}",
+        "api_error": "API Hiba",
+        "status": "Státusz"
+    },
+    "weather": {
+        "current": "Aktuális hely",
+        "allow": "Kattints az engedélyezéshez",
+        "updating": "Frissítés",
+        "wait": "Kérlek várj"
+    },
+    "search": {
+        "placeholder": "Keresés…"
+    },
+    "emby": {
+        "playing": "Lejátszás",
+        "transcoding": "Átkódolás",
+        "bitrate": "Bitráta",
+        "no_active": "Nincs aktív lejátszás"
+    },
+    "tautulli": {
+        "playing": "Lejátszás folyamatban",
+        "transcoding": "Átkódolás",
+        "bitrate": "Bitráta",
+        "no_active": "Nincs aktív lejátszás"
+    },
+    "nzbget": {
+        "rate": "Ráta",
+        "remaining": "Hátralévő",
+        "downloaded": "Letöltött"
+    },
+    "sabnzbd": {
+        "rate": "Ráta",
+        "queue": "Sor",
+        "timeleft": "Hátralévő idő"
+    },
+    "rutorrent": {
+        "active": "Aktív",
+        "upload": "Feltöltés",
+        "download": "Letöltés"
+    },
+    "transmission": {
+        "leech": "Leechelés",
+        "seed": "Seedelés",
+        "download": "Letöltés",
+        "upload": "Feltöltés"
+    },
+    "qbittorrent": {
+        "download": "Letöltés",
+        "upload": "Feltöltés",
+        "leech": "Leechelés",
+        "seed": "Seedelés"
+    },
+    "sonarr": {
+        "wanted": "Keresett",
+        "queued": "Sorban áll",
+        "series": "Sorozat"
+    },
+    "radarr": {
+        "wanted": "Keresett",
+        "queued": "Sorban áll",
+        "movies": "Filmek"
+    },
+    "ombi": {
+        "pending": "Függőben",
+        "approved": "Engedélyezett",
+        "available": "Elérhető"
+    },
+    "jellyseerr": {
+        "pending": "Függőben",
+        "approved": "Engedélyezett",
+        "available": "Elérhető"
+    },
+    "overseerr": {
+        "pending": "Függőben",
+        "approved": "Engedélyezett",
+        "available": "Elérhető"
+    },
+    "pihole": {
+        "queries": "Lekérdezések",
+        "blocked": "Blokkolt",
+        "gravity": "Gravitáció"
+    },
+    "adguard": {
+        "queries": "Lekérdezések",
+        "blocked": "Blokkolt",
+        "filtered": "Szűrt",
+        "latency": "Késleltetés"
+    },
+    "speedtest": {
+        "upload": "Feltöltés",
+        "download": "Letöltés",
+        "ping": "Ping"
+    },
+    "portainer": {
+        "running": "Futó",
+        "stopped": "Megállított",
+        "total": "Összes"
+    },
+    "traefik": {
+        "routers": "Routerek",
+        "services": "Folyamatok",
+        "middleware": "Közvetítő"
+    },
+    "npm": {
+        "enabled": "Bekapcsolva",
+        "disabled": "Kikapcsolva",
+        "total": "Összes"
+    },
+    "coinmarketcap": {
+        "configure": "Állíts be egy vagy több Cryptovalutát a követéshez",
+        "1hour": "1 Óra",
+        "1day": "1 Nap",
+        "7days": "7 Nap",
+        "30days": "30 Nap"
+    },
+    "gotify": {
+        "apps": "Applikációk",
+        "clients": "Kliensek",
+        "messages": "Üzenetek"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexerek",
+        "numberOfGrabs": "Fogott",
+        "numberOfFailGrabs": "Hibás fogások",
+        "numberOfQueries": "Lekérdezések",
+        "numberOfFailQueries": "Hibás lekérdezések"
+    },
+    "jackett": {
+        "configured": "Beállított",
+        "errored": "Hibás"
+    },
+    "mastodon": {
+        "user_count": "Users",
+        "status_count": "Posts",
+        "domain_count": "Domains"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sessions",
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate"
+    }
+}

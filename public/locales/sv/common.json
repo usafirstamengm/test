@@ -1,0 +1,172 @@
+{
+    "widget": {
+        "missing_type": "Saknar Widget-typ: {{type}}",
+        "api_error": "API-fel",
+        "status": "Status"
+    },
+    "weather": {
+        "current": "Nuvarande plats",
+        "allow": "Klicka för att tillåta",
+        "updating": "Uppdaterar",
+        "wait": "Vänligen vänta"
+    },
+    "resources": {
+        "load": "Laddar",
+        "total": "Total",
+        "free": "Ledigt",
+        "used": "Använt"
+    },
+    "docker": {
+        "rx": "RX",
+        "tx": "TX",
+        "mem": "MEM",
+        "cpu": "CPU",
+        "offline": "Offline"
+    },
+    "search": {
+        "placeholder": "Sök…"
+    },
+    "emby": {
+        "playing": "Spelar",
+        "transcoding": "Omkodning",
+        "bitrate": "Bitrate",
+        "no_active": "Inga aktiva strömmar"
+    },
+    "tautulli": {
+        "playing": "Spelar",
+        "transcoding": "Omkodning",
+        "bitrate": "Bitrate",
+        "no_active": "Inga aktiva strömmar"
+    },
+    "nzbget": {
+        "rate": "Hastighet",
+        "remaining": "Återstående",
+        "downloaded": "Nedladdat"
+    },
+    "sabnzbd": {
+        "rate": "Hastighet",
+        "queue": "Kö",
+        "timeleft": "Tid kvar"
+    },
+    "rutorrent": {
+        "active": "Aktiva",
+        "upload": "Uppladdning",
+        "download": "Nedladdning"
+    },
+    "transmission": {
+        "download": "Nedladdning",
+        "upload": "Uppladdning",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "sonarr": {
+        "wanted": "Eftersöker",
+        "queued": "I kö",
+        "series": "Serier"
+    },
+    "radarr": {
+        "wanted": "Eftersöker",
+        "queued": "I kö",
+        "movies": "Filmer"
+    },
+    "lidarr": {
+        "wanted": "Eftersöker",
+        "queued": "I kö",
+        "albums": "Album"
+    },
+    "readarr": {
+        "wanted": "Eftersökt",
+        "queued": "I kö",
+        "books": "Böcker"
+    },
+    "bazarr": {
+        "missingEpisodes": "Saknade program",
+        "missingMovies": "Saknade filmer"
+    },
+    "ombi": {
+        "pending": "Avvaktar",
+        "approved": "Godkända",
+        "available": "Tillgänglig"
+    },
+    "jellyseerr": {
+        "pending": "Avvaktar",
+        "approved": "Godkända",
+        "available": "Tillgänglig"
+    },
+    "overseerr": {
+        "pending": "Avvaktar",
+        "approved": "Godkända",
+        "available": "Tillgänglig"
+    },
+    "pihole": {
+        "blocked": "Blockerad",
+        "queries": "Förfrågningar",
+        "gravity": "Gravity"
+    },
+    "speedtest": {
+        "upload": "Uppladdning",
+        "download": "Nedladdning",
+        "ping": "Svarstid"
+    },
+    "portainer": {
+        "running": "Körs",
+        "stopped": "Stoppade",
+        "total": "Totalt"
+    },
+    "traefik": {
+        "routers": "Routers",
+        "services": "Tjänster",
+        "middleware": "Middleware"
+    },
+    "npm": {
+        "enabled": "Aktiverad",
+        "disabled": "Inaktiverad",
+        "total": "Totalt"
+    },
+    "coinmarketcap": {
+        "configure": "Konfigurera en eller flera kryptovalutor att följa",
+        "1hour": "1 timme",
+        "1day": "1 dag",
+        "7days": "7 dagar",
+        "30days": "30 dagar"
+    },
+    "gotify": {
+        "apps": "Program",
+        "clients": "Klienter",
+        "messages": "Meddelande"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexerare",
+        "numberOfGrabs": "Hämtningar",
+        "numberOfQueries": "Queries",
+        "numberOfFailGrabs": "Misslyckade hämtningar",
+        "numberOfFailQueries": "Fail Queries"
+    },
+    "jackett": {
+        "configured": "Konfigurerade",
+        "errored": "Felaktiga"
+    },
+    "adguard": {
+        "queries": "Queries",
+        "blocked": "Blocked",
+        "filtered": "Filtered",
+        "latency": "Latency"
+    },
+    "qbittorrent": {
+        "download": "Download",
+        "upload": "Upload",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "mastodon": {
+        "user_count": "Users",
+        "status_count": "Posts",
+        "domain_count": "Domains"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sessions",
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "docker": {
+        "tx": "TX",
+        "mem": "MEM",
+        "cpu": "CPU",
+        "offline": "Offline",
+        "rx": "RX"
+    },
+    "emby": {
+        "playing": "In riproduzione",
+        "transcoding": "Transcoding",
+        "bitrate": "Bitrate",
+        "no_active": "Nessuno Stream Attivo"
+    },
+    "tautulli": {
+        "playing": "In riproduzione",
+        "transcoding": "Transcoding",
+        "bitrate": "Bitrate",
+        "no_active": "Nessuno Stream Attivo"
+    },
+    "speedtest": {
+        "upload": "Upload",
+        "download": "Download",
+        "ping": "Ping"
+    },
+    "portainer": {
+        "running": "In esecuzione",
+        "stopped": "Fermati",
+        "total": "Totali"
+    },
+    "traefik": {
+        "routers": "Routers",
+        "services": "Servizi",
+        "middleware": "Middleware"
+    },
+    "widget": {
+        "missing_type": "Missing Widget Type: {{type}}",
+        "api_error": "Errore API",
+        "status": "Stato"
+    },
+    "search": {
+        "placeholder": "Cerca…"
+    },
+    "resources": {
+        "total": "Totale",
+        "free": "Libero",
+        "used": "In utilizzo",
+        "load": "Load"
+    },
+    "rutorrent": {
+        "active": "Attivo",
+        "upload": "Upload",
+        "download": "Download"
+    },
+    "sonarr": {
+        "series": "Serie",
+        "wanted": "Rchiesti",
+        "queued": "In coda"
+    },
+    "radarr": {
+        "wanted": "Richiesti",
+        "queued": "In coda",
+        "movies": "Film"
+    },
+    "readarr": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "books": "Books"
+    },
+    "ombi": {
+        "pending": "In attesa",
+        "approved": "Approvati",
+        "available": "Disponibili"
+    },
+    "jellyseerr": {
+        "pending": "In attesa",
+        "approved": "Approvati",
+        "available": "Disponibili"
+    },
+    "pihole": {
+        "queries": "Richieste",
+        "blocked": "Bloccati",
+        "gravity": "Severità"
+    },
+    "npm": {
+        "enabled": "Attivi",
+        "disabled": "Disabilitati",
+        "total": "Totali"
+    },
+    "weather": {
+        "current": "Posizione Attuale",
+        "allow": "Clicca per consentire",
+        "updating": "Aggiornamento in corso",
+        "wait": "Attendi per favore"
+    },
+    "overseerr": {
+        "pending": "In attesa",
+        "approved": "Approvati",
+        "available": "Disponibili"
+    },
+    "sabnzbd": {
+        "rate": "Rapporto",
+        "queue": "Coda",
+        "timeleft": "Tempo Rimanente"
+    },
+    "nzbget": {
+        "rate": "Rapporto",
+        "remaining": "Rimanente",
+        "downloaded": "Scaricato"
+    },
+    "coinmarketcap": {
+        "configure": "Configure one or more crypto currencies to track",
+        "1day": "1 Day",
+        "7days": "7 Days",
+        "1hour": "1 Hour",
+        "30days": "30 Days"
+    },
+    "gotify": {
+        "apps": "Applicazioni",
+        "clients": "Clients",
+        "messages": "Messaggi"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexers",
+        "numberOfGrabs": "Grabs",
+        "numberOfQueries": "Queries",
+        "numberOfFailGrabs": "Fail Grabs",
+        "numberOfFailQueries": "Fail Queries"
+    },
+    "transmission": {
+        "download": "Download",
+        "upload": "Upload",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "jackett": {
+        "configured": "Configured",
+        "errored": "Errored"
+    },
+    "bazarr": {
+        "missingEpisodes": "Missing Episodes",
+        "missingMovies": "Missing Movies"
+    },
+    "lidarr": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "albums": "Albums"
+    },
+    "adguard": {
+        "queries": "Queries",
+        "blocked": "Blocked",
+        "filtered": "Filtered",
+        "latency": "Latency"
+    },
+    "qbittorrent": {
+        "download": "Download",
+        "leech": "Leech",
+        "upload": "Upload",
+        "seed": "Seed"
+    },
+    "mastodon": {
+        "user_count": "Users",
+        "status_count": "Posts",
+        "domain_count": "Domains"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sessions",
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate"
+    }
+}

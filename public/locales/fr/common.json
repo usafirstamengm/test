@@ -1,0 +1,183 @@
+{
+    "widget": {
+        "missing_type": "Type de widget manquant: {{type}}",
+        "api_error": "Erreur de l'API",
+        "status": "Statut"
+    },
+    "search": {
+        "placeholder": "Recherche…"
+    },
+    "resources": {
+        "total": "Total",
+        "free": "Libre",
+        "used": "Utilisé",
+        "load": "Charge"
+    },
+    "docker": {
+        "rx": "Rx",
+        "tx": "Tx",
+        "mem": "Mém",
+        "cpu": "Cpu",
+        "offline": "Hors ligne"
+    },
+    "emby": {
+        "playing": "En lecture",
+        "transcoding": "Transcodage",
+        "bitrate": "Débit",
+        "no_active": "Aucun flux actif"
+    },
+    "tautulli": {
+        "playing": "En lecture",
+        "transcoding": "Transcodage",
+        "bitrate": "Débit",
+        "no_active": "Aucun flux actif"
+    },
+    "rutorrent": {
+        "active": "Actif",
+        "upload": "Envoi",
+        "download": "Réception"
+    },
+    "sonarr": {
+        "wanted": "Demandé",
+        "queued": "En queue",
+        "series": "Séries"
+    },
+    "radarr": {
+        "wanted": "Demandé",
+        "queued": "En queue",
+        "movies": "Films"
+    },
+    "readarr": {
+        "wanted": "Demandé",
+        "queued": "En Queue",
+        "books": "Livres"
+    },
+    "ombi": {
+        "pending": "En attente",
+        "approved": "Validé",
+        "available": "Disponible"
+    },
+    "jellyseerr": {
+        "pending": "En attente",
+        "approved": "Validé",
+        "available": "Disponible"
+    },
+    "pihole": {
+        "queries": "Requêtes",
+        "blocked": "Bloqué",
+        "gravity": "Listes dom. bloqués"
+    },
+    "speedtest": {
+        "upload": "Envoi",
+        "download": "Récep.",
+        "ping": "Ping"
+    },
+    "portainer": {
+        "running": "Démarré",
+        "stopped": "Arrêté",
+        "total": "Total"
+    },
+    "traefik": {
+        "routers": "Routeurs",
+        "services": "Services",
+        "middleware": "Middleware"
+    },
+    "npm": {
+        "enabled": "Activé",
+        "disabled": "Désactivé",
+        "total": "Total"
+    },
+    "common": {
+        "bbytes": "{{value, bytes(binary: true)}}",
+        "bytes": "{{value, bytes}}",
+        "bits": "{{value, bytes(bits: true)}}",
+        "bbits": "{{value, bytes(bits: true, binary: true)}}",
+        "number": "{{value, number}}",
+        "byterate": "{{value, bytes}}",
+        "bitrate": "{{value, bytes(bits: true)}}",
+        "percent": "{{value, percent}}",
+        "ms": "{{value, number}}"
+    },
+    "weather": {
+        "current": "Localisation actuelle",
+        "allow": "Cliquez pour autoriser",
+        "updating": "Mise à jour",
+        "wait": "Veuillez patienter"
+    },
+    "overseerr": {
+        "pending": "En attente",
+        "approved": "Demande",
+        "available": "Disponible"
+    },
+    "sabnzbd": {
+        "rate": "Débit",
+        "queue": "Queue",
+        "timeleft": "Temps restant"
+    },
+    "nzbget": {
+        "remaining": "Restant",
+        "downloaded": "Téléchargé",
+        "rate": "Débit"
+    },
+    "coinmarketcap": {
+        "configure": "Configurer une ou plusieurs crypto-monnaies à suivre",
+        "1hour": "1 Heure",
+        "1day": "1 Jour",
+        "7days": "7 Jours",
+        "30days": "30 Jours"
+    },
+    "gotify": {
+        "apps": "Applis",
+        "clients": "Clients",
+        "messages": "Msg"
+    },
+    "prowlarr": {
+        "enableIndexers": "Indexeurs",
+        "numberOfGrabs": "Capture",
+        "numberOfQueries": "Demandes",
+        "numberOfFailGrabs": "Capture échouée",
+        "numberOfFailQueries": "Demande échouée"
+    },
+    "transmission": {
+        "download": "Réception",
+        "upload": "Envoi",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "jackett": {
+        "configured": "Configuré",
+        "errored": "En erreur"
+    },
+    "bazarr": {
+        "missingEpisodes": "Épisodes manquants",
+        "missingMovies": "Films manquants"
+    },
+    "lidarr": {
+        "wanted": "Demandé",
+        "queued": "En queue",
+        "albums": "Albums"
+    },
+    "adguard": {
+        "queries": "Requêtes",
+        "blocked": "Bloquées",
+        "filtered": "Filtrées",
+        "latency": "Latence"
+    },
+    "qbittorrent": {
+        "download": "Récep.",
+        "upload": "Envoi",
+        "leech": "Leech",
+        "seed": "Seed"
+    },
+    "mastodon": {
+        "user_count": "Utilisateurs",
+        "status_count": "Messages",
+        "domain_count": "Domaines"
+    },
+    "strelaysrv": {
+        "numActiveSessions": "Sessions",
+        "numConnections": "Connections",
+        "dataRelayed": "Relayed",
+        "transferRate": "Rate"
+    }
+}
